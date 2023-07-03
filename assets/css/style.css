@@ -186,12 +186,10 @@
 }
 #people .card img {
   padding: 20px;
-  height: 350px;
-  width: 100%;
 }
 #people .card-title {
   color: white;
-  font-size: 30px;
+  font-size: 25px;
   font-weight: 900;
   cursor: pointer;
   font-family: Georgia, "Times New Roman", Times, serif;
